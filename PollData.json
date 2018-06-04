@@ -1,0 +1,35 @@
+{ "TenantUrl":"https://xxxxxxxxxxx.sharepoint.com",
+  "SiteUrl":"https://xxxxxxxxxxx.sharepoint.com",
+  "ListName":"PollQuestions",
+  "PollQuestions":[{
+    "Question": "When did you last visit the dentist?",
+    "Options": ["1 month ago","6 months ago","12 months ago","2 years ago","Can't remember"],
+    "PublishedDate": "11/30/2017  12:00:00",
+    "ExpiryDate": "01/31/2019  12:00:00"
+  },
+  {
+    "Question": "Are you healthier for working at your company?",
+    "Options": ["Yes","No","Not sure"],
+    "PublishedDate": "11/30/2017  12:00:00",
+    "ExpiryDate": "01/31/2019  12:00:00"
+  },
+  {
+    "Question": "What excites you about Workplace",
+    "Options": ["Connecting with my peers & colleagues", "Learning more about our business","Creating a community for our people and team to collaborate","All of the above"],
+    "PublishedDate": "11/30/2017  12:00:00",
+    "ExpiryDate": "01/31/2019  12:00:00"	
+  },
+  {
+    "Question": "As a nightwatchman, how are you stepping up to support parents in their first 1000 days of parenthood?",
+    "Options": ["Connecting with my peers & colleagues", "Learning more about our business","Creating a community for our people and team to collaborate","All of the above"],
+    "PublishedDate": "11/30/2017  12:00:00",
+    "ExpiryDate": "01/31/2019  12:00:00"	
+  },
+  {
+    "Question": "Who will be the top scorer for Australia in the 1 day match against India today?",
+    "Options": ["Steve Smith","Aaron Finch","David Warner","Glenn Maxwell"],
+    "PublishedDate": "11/30/2017  12:00:00",
+    "ExpiryDate": "01/31/2019  12:00:00"	
+  }
+  ]
+}
